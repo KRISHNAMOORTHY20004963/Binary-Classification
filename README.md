@@ -30,7 +30,7 @@ For example, in medical diagnosis, a binary classifier for a specific disease co
 ```
 /*
 Program to implement binary classification.
-Developed by: KRISHNA MOORTHY S
+Developed by: KRISHNA MOORTHY
 Register Number: 212220230025
 */
 from numpy import where
